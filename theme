@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>主题网站介绍</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    p {
+      text-align: justify;
+    }
+
+   .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+   .highlight {
+      color: #007BFF;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>欢迎来到我的主题网站</h1>
+    <p>这是一个网站，旨在为用户提供视频介绍。</p>
+    <h2>网站特色</h2>
+    <ul>
+      <li>下面是我的bilibili主页</li>
+      <li>互关秒回</li>
+    </ul>
+  </div>
+</body>
+
+</html>
