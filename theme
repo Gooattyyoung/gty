@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>主题网站介绍</title>
+  <title>主题网站</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -41,10 +41,11 @@
 <body>
   <div class="container">
     <h1>欢迎来到我的主题网站</h1>
-    <p>这是一个网站，旨在为用户提供视频介绍。</p>
-    <h2>网站特色</h2>
+    <p>这是一个网站，旨在为用户提供有趣视频。</p>
+    <h2>地址如下</h2>
     <ul>
       <li>下面是我的bilibili主页</li>
+      <a href="https://space.bilibili.com/87367473"></a>
       <li>互关秒回</li>
     </ul>
   </div>
